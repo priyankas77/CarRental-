@@ -1,6 +1,6 @@
 import React from 'react'
-import Title from './title'
-import CarCard from './carcard'
+import Title from './Title'
+import CarCard from './CarCard'
 import { assets } from '../assets/assets'
 import { useNavigate } from 'react-router-dom'
 import { useAppContext } from '../context/AppContext'
